@@ -1,9 +1,14 @@
+
 *{
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
     color:#c5c6c7;
 
+}
+@font-face{
+  font-family: 'go3';
+  src: url(../font/go3v2.ttf);
 }
 body{
   overflow-x: hidden;
@@ -29,16 +34,16 @@ body{
 }
 .link{
     text-decoration: none;  
-    font-family:Buran USSR, monospace;
+    font-family'go3';
 }
 .li{
     color: #c5c6c7;
-    font-family:Buran USSR, monospace;
+    font-family:'go3';
 }
 #name{
     font-size: 20px;
     color:#c5c6c7;
-    font-family:Buran USSR, monospace;
+    font-family:'go3';
 }
 
 #header ul{
