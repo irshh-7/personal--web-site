@@ -12,7 +12,7 @@
 }
 @font-face{
   font-family: 'Bebas Neue';
- src: url(../font/BebasNeue-Regular.ttf);
+ src: url(../font/BebasNeue-Regular.otf);
 }
 body{
   overflow-x: hidden;
