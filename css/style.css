@@ -10,6 +10,10 @@
   font-family: 'go3';
   src: url(../font/go3v2.ttf);
 }
+@font-face{
+  font-family: 'Bebas Neue';
+ src: url(../font/BebasNeue-Regular.ttf);
+}
 body{
   overflow-x: hidden;
 }
@@ -67,14 +71,14 @@ hr{
     margin-top: 50px;
 }
 #creative{
-    font-family: "Bebas Neue", sans-serif;
+    font-family: 'Bebas Neue':
     font-weight: 400;
     font-style: normal;
     font-size: 60px;
     
 }
 #web{
-    font-family: "Bebas Neue", sans-serif;
+    font-family: 'Bebas Neue';
     font-weight: 600;
     font-style: normal;
     font-size: 100px;
