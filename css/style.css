@@ -34,16 +34,16 @@ body{
 }
 .link{
     text-decoration: none;  
-    font-family:'go3';
+    font-family:Buran USSR, monospace;
 }
 .li{
     color: #c5c6c7;
-    font-family:'go3';
+    font-family:Buran USSR, monospace;
 }
 #name{
     font-size: 20px;
     color:#c5c6c7;
-    font-family:'go3';
+    font-family:Buran USSR, monospace;
 }
 
 #header ul{
@@ -82,12 +82,12 @@ hr{
     .hey{
     font-size: 70px;
     color:#c5c6c7;
-    font-family:Gang of Three, sans-serif; 
+    font-family:'go3'; 
     }
 #am{
     font-size: 100px;
     color: #c5c6c7;
-    font-family:Gang of Three, sans-serif; 
+    font-family:'go3'; 
     
 }
 #d2{
