@@ -24,6 +24,18 @@ var options = {
   $(".bl .bar").circleProgress({
     value: 0.70
   });
+$(".php .bar").circleProgress({
+    value: 0.70
+  });
+  $(".my .bar").circleProgress({
+    value: 0.70
+  });
+  $(".lv .bar").circleProgress({
+    value: 0.60
+  });
+  $(".wb .bar").circleProgress({
+    value: 0.80
+  });
 const wrapper = document.querySelector(".wrapper"),
   carousel = document.querySelector(".carousel"),
   images = document.querySelectorAll("img"),
