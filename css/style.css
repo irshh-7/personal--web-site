@@ -394,10 +394,10 @@ input[type=submit]:hover {
   padding-top: 5%;
 }
 #have{
-  font-family: "Bebas Neue";
+  font-family: "Bebas Neue", sans-serif;
   font-weight: 600;
   font-style: normal;
-  font-size: 70px;
+  font-size: 60px;
   margin-top: 15%;
   padding-left: 20px;
   position: absolute;
